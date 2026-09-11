@@ -9,7 +9,7 @@
 
 // ---------- BACKEND ----------
 // Production backend deployed on Render
-const BACKEND_URL = "https://sahaay-ai-back.onrender.com";
+const BACKEND_URL = "const BACKEND_URL = "http://localhost:5000";";
 
 // ---------- DOM ----------
 const symptomsEl = document.getElementById("symptoms");
